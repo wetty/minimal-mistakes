@@ -5,3 +5,11 @@
     </a>
   </li>
 -->
+
+      {% if author.500px %}
+        <li>
+          <a href="https://500px.com/{{ author.500px }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-500px" aria-hidden="true"></i> Steam
+          </a>
+        </li>
+      {% endif %}
