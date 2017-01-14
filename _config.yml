@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Elektrotechnik Ingenieur, der Software entwickelt und IT-Dienstleistungen anbietet."
   location         : "Gernsheim, Deutschland"
-  email            :
+  email            : "thomas@wetterer.de"
   uri              : "http://www.wetterer.de"
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   twitter          : "twettyr"
   vine             :
   weibo            :
-  xing             :
+  xing             : "wettyweb"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
