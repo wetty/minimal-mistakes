@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Wetterer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/thomas-wetterer.jpg"
   bio              : "Dipl.-Ing. Elektrotechnik"
   location         : "Gernsheim, Deutschland"
   email            : "thomas@wetterer.de"
