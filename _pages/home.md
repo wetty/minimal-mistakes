@@ -3,23 +3,23 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: {{ cdn_url }}/assets/images/mm-home-page-feature.jpg
   caption:
 excerpt: 'Internet Software-Entwicklung, IT-Dienstleistungen'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: {{ cdn_url }}/assets/images/mm-customizable-feature.png
     alt: "it-support"
     title: "IT-Support"
     excerpt: "Administration von Linux und Windows Servern. Firmenweite Netzwerkbetreuung."
     url: "/it-support.html"
     btn_label: "Mehr erfahren"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: {{ cdn_url }}/assets/images/mm-free-feature.png
     alt: "software entwicklung"
     title: "Software Entwicklung"
     excerpt: "Software Entwicklung unter Microsoft .NET und SQL Server."
     url: "/software-Entwicklung.html"
     btn_label: "Mehr erfahren"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: {{ cdn_url }}/assets/images/mm-responsive-feature.png
     alt: "web auftritte"
     title: "Internet"
     excerpt: "Konzeption, Umsetzung und Hosting von Web Auftritten."
