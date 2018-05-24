@@ -1,41 +1,96 @@
 ---
-title: "Datenschutz"
-excerpt: "Datenschutz"
+title: "Datenschutzerklärung"
+excerpt: "Datenschutzerklärung"
 permalink: /datenschutz.html
 ---
 
-Erklärung zum Datenschutz (Privacy Policy) für Wetty-Web.de
+## 1. Datenschutz auf einen Blick ##
 
-**Vorwort**    
-Die Betreiber von Wetty-Web.de nehmen den Schutz der privaten Daten ernst. Die besondere Beachtung der Privatsphäre bei der Verarbeitung persönlicher Daten ist ein wichtiges Anliegen. Persönliche Daten werden gemäss den Bestimmungen des Bundesdatensschutzgesetzes BDSG verwendet; die Betreiber dieser Website verpflichten sich zur Verschwiegenheit. Diese Webseiten können Links zu Webseiten anderer Anbieter enthalten, auf die sich diese Datenschutzerklärung nicht erstreckt. Weitere wichtige Informationen finden sich auch in den Allgemeinen Nutzungsbedingungen.
- 
+### Allgemeine Hinweise ###
 
-- Personenbezogene Daten    
-	Personenbezogene Daten sind Informationen, die dazu genutzt werden können, die Identität zu erfahren. Darunter fallen Informationen wie richtiger Name, Adresse, Postanschrift, Telefonnummer. Informationen, die nicht direkt mit der wirklichen Identität in Verbindung gebracht werden (wie zum Beispiel favorisierte Webseiten oder Anzahl der Nutzer einer Site) fallen nicht darunter.
+Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
-    Man kann unser Online-Angebot grundsätzlich ohne Offenlegung der Identität nutzen. Wenn man sich für eine Registrierung entscheidet, sich also als Mitglied (registrierter Benutzer) anmeldet, kann man im individuellen Benutzerprofil persönlichen Informationen hinterlegen. Es unterliegt der freien Entscheidung, ob diese Daten eingegeben werden. Da versucht wird, für eine Nutzung des Angebots so wenig wie möglich personenbezogene Daten zu erheben, reicht für eine Registrierung die Angabe eines Namens - unter dem man als Mitglied geführt wird und der nicht mit dem realen Namen übereinstimmen muss - und die Angabe der E-Mail-Adresse, an die das Kennwort geschickt wird, aus. In Verbindung mit dem Zugriff auf unsere Seiten werden serverseitig Daten (zum Beispiel IP-Adresse, Datum, Uhrzeit und betrachtete Seiten) gespeichert. Es findet keine personenbezogene Verwertung statt. Die statistische Auswertung anonymisierter Datensätze bleibt vorbehalten.
+### Datenerfassung auf unserer Website ###
 
-    Wir nutzen die persönlichen Daten zu Zwecken der technischen Administration der Webseiten und zur Kundenverwaltung nur im jeweils dafür erforderlichen Umfang. Darüber hinaus werden persönliche Daten nur dann gespeichert, wenn diese freiwillig angegeben werden.
+**Wer ist verantwortlich für die Datenerfassung auf dieser Website?**
 
-- Weitergabe personenbezogener Daten    
-	Wir verwenden personenbezogene Informationen nur für diese Webseite. Wir geben die Informationen nicht ohne ausdrückliches Einverständnis an Dritte weiter. Sollten im Rahmen der Auftragsdatenverarbeitung Daten an Dienstleister weitergegeben werden, so sind diese an das Bundesdatenschutzgesetz BDSG, andere gesetzliche Vorschriften und an diese Privacy Policy gebunden.
+Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.
 
-    Erhebungen beziehungsweise Übermittlungen persönlicher Daten an staatliche Einrichtungen und Behörden erfolgen nur im Rahmen zwingender Rechtsvorschriften.
+**Wie erfassen wir Ihre Daten?**
 
-- Einsatz von Cookies    
-	Wir setzen Cookies - kleine Dateien mit Konfigurationsinformationen - ein. Sie helfen dabei, benutzerindividuelle Einstellungen zu ermitteln und spezielle Benutzerfunktionen zu realisieren. Wir erfassen keine personenbezogenen Daten über Cookies. Sämtliche Funktionen der Website sind auch ohne Cookies einsetzbar, einige benutzerdefinierte Eigenschaften und Einstellungen sind dann allerdings nicht verfügbar.
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
 
-- Kinder    
-	Personen unter 18 Jahren sollten ohne Zustimmung der Eltern oder Erziehungsberechtigten keine personenbezogenen Daten an uns übermitteln. Wir fordern keine personenbezogenen Daten von Kindern an, sammeln diese nicht und geben sie nicht an Dritte weiter.
+Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.
 
-- Recht auf Widerruf    
-	Wenn Sie uns personenbezogene Daten überlassen haben, können Sie diese jederzeit im Benutzerprofil wieder ändern und löschen. Für eine vollständige Löschung des Accounts bitte an den Webmaster wenden. Bis zu diesem Zeitpunkt erfolgte Beiträge in Foren, Kommentaren, Terminankündigungen und Artikeln bleiben allerdings unter Umständen erhalten - Informationen dazu auch bei den allgemeinen Nutzungsbedingungen.
+**Wofür nutzen wir Ihre Daten?**
 
-- Links zu anderen Websites    
-	Unser Online-Angebot enthält Links zu anderen Websites. Wir haben keinen Einfluss darauf, dass deren Betreiber die Datenschutzbestimmungen einhalten.
+Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
 
-- Beiträge    
-	Die Beiträge auf unserer Seite sind für jeden zugänglich. Beiträge sollten vor der Veröffentlichung sorgfältig darauf überprüft werden, ob sie Angaben enthalten, die nicht für die Öffentlichkeit bestimmt sind. Die Beiträge werden möglicherweise in Suchmaschinen erfasst und auch ohne gezielten Aufruf dieser Website weltweit zugreifbar.
+**Welche Rechte haben Sie bezüglich Ihrer Daten?**
 
-- Fragen und Kommentare    
-	Bei Fragen und für Anregungen und Kommentare zum Thema Datenschutz bitte per Mail an den Webmaster von Wetty-Web.de wenden.
+Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
+
+## 2. Allgemeine Hinweise und Pflichtinformationen ##
+
+### Datenschutz ###
+
+Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+
+Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
+
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+
+### Hinweis zur verantwortlichen Stelle ###
+
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+
+Thomas Wetterer    
+Breslauer Strasse 44    
+64579 Gernsheim
+
+Telefon: +49 6259 5102865 0    
+E-Mail: thomas@wetterer.de
+
+Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
+
+### Widerruf Ihrer Einwilligung zur Datenverarbeitung ###
+
+Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
+
+### Beschwerderecht bei der zuständigen Aufsichtsbehörde ###
+
+Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat. Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen werden: <a href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank">https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html</a>.
+
+### Recht auf Datenübertragbarkeit ###
+
+Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
+
+### SSL- bzw. TLS-Verschlüsselung ###
+Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
+
+Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
+
+### Auskunft, Sperrung, Löschung ###
+
+Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
+
+### Widerspruch gegen Werbe-Mails ###
+
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
+
+## 3. Datenerfassung auf unserer Website ##
+
+### Server-Log-Dateien ###
+
+Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
+
+   - Browsertyp und Browserversion
+   - verwendetes Betriebssystem
+   - Referrer URL
+   - Hostname des zugreifenden Rechners
+   - Uhrzeit der Serveranfrage
+   - IP-Adresse
+	 
+Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+
+Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
