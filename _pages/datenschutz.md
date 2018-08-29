@@ -49,6 +49,7 @@ Breslauer Strasse 44
 64579 Gernsheim
 
 Telefon: +49 6259 5102865 0    
+Mobil: +49 163 8493889    
 E-Mail: thomas@wetterer.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
