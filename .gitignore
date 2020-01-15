@@ -5,6 +5,7 @@
 .DS_Store
 .jekyll-metadata
 .sass-cache
+.jekyll-cache
 _asset_bundler_cache
 _site
 codekit-config.json
