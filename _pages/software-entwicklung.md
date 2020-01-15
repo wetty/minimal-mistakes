@@ -7,8 +7,7 @@ Seit 1995 bin ich ununterbrochen in der Software Entwicklung tätig. Von der ein
 
 Im Bereich Software Entwicklung wurden bislang folgende Tools eingesetzt:
 
-- Microsoft Visual Studio .net (Versionen 2003, 2005, 2008, 2010)
-- Microsoft SQL Server (Versionen 2003, 2005, 2008)
+- Microsoft Visual Studio .net C# (seit Version 2003)
+- Microsoft SQL Server (seit Version 2003)
 - Microsoft Visual Fox Pro (Versionen 3, 5, 6, 7, 8 und 9)
-- Microsoft Visual Source Safe
-- Microsoft Visual Basic 6
+- Source Code Versionsverwaltungen: SVN, Git, GitHub

@@ -10,10 +10,11 @@ Mein Tätigkeitsfeld umfasst:
 
 - Website Erstellung: statisch in HTML, per Script mit PHP oder ASP
 - Umsetzung Ihrer Layout Vorgaben: Template Erstellung
-- Website Optimierung auf Geschwindigkeit, W3C Kompatibilität und Suchmaschinen Freundlichkeit
+- Website Optimierung auf Geschwindigkeit, W3C Kompatibilität und Suchmaschinen SEO Freundlichkeit
 
 Hierzu biete ich Ihnen zahlreiche Erfahrung mit folgenden Systemen:
 
 - Content Management Systeme: wie z.B. Joomla
 - Blogsoftware: wie z.B. Wordpress
-- Wikis: Docuwiki, Wikimedia
+- Wikis: Dokuwiki, Wikimedia
+- Statische Content Creator wie z.B. Jekyll
