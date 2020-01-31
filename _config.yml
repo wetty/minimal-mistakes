@@ -98,6 +98,13 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Site owner
+owner:
+  google:
+    ad-client: ca-pub-7756413429414204
+    ad-slot: 8741122071
+
+
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
