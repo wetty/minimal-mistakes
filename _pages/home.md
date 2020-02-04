@@ -17,7 +17,7 @@ feature_row:
     alt: "software entwicklung"
     title: "Software Entwicklung"
     excerpt: "Software Entwicklung unter Microsoft .NET und SQL Server."
-    url: "/software-Entwicklung.html"
+    url: "/software-entwicklung.html"
     btn_label: "Mehr erfahren"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "web auftritte"
