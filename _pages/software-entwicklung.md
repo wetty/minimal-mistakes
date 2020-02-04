@@ -1,7 +1,7 @@
 ---
 title: "Software Entwicklung"
 excerpt: "MS .net, SQL Server..."
-permalink: /software-Entwicklung.html
+permalink: /software-entwicklung.html
 ---
 Seit 1995 bin ich ununterbrochen in der Software Entwicklung tätig. Von der einfachen Tool Entwicklung über Desktop Applikationen bis hin zu umfangreichen Datenbankanwendungen mit Web basierten Oberflächen reicht mein Erfahrungsspektrum.
 
