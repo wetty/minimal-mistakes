@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/mm-home-page-feature.1.jpg
   caption:
 excerpt: 'Internet Software-Entwicklung, IT-Dienstleistungen'
 feature_row:
