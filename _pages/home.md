@@ -11,19 +11,19 @@ feature_row:
     alt: "it-support"
     title: "IT-Support"
     excerpt: "Administration von Linux und Windows Servern. Firmenweite Netzwerkbetreuung."
-    url: "/it-support.html"
+    url: "/it-support/"
     btn_label: "Mehr erfahren"
   - image_path: /assets/images/mm-free-feature.png
     alt: "software entwicklung"
     title: "Software Entwicklung"
     excerpt: "Software Entwicklung unter Microsoft .NET und SQL Server."
-    url: "/software-entwicklung.html"
+    url: "/software-entwicklung/"
     btn_label: "Mehr erfahren"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "web auftritte"
     title: "Internet"
     excerpt: "Konzeption, Umsetzung und Hosting von Web Auftritten."
-    url: "/internet.html"
+    url: "/internet/"
     btn_label: "Mehr erfahren"
 ---
 
