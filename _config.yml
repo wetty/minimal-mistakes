@@ -107,11 +107,12 @@ social:
 
 
 # Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-2881242-7
-    anonymize_ip         : true # true, false (default)
+# 2020-04-27 Analytics zum Test raus
+#analytics:
+#  provider               : "google" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          : UA-2881242-7
+#    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
