@@ -1,7 +1,7 @@
 ---
 title: "Internet Betreuung"
 excerpt: "Konzeption, Umsetzung und Hosting von Web Auftritten."
-permalink: /internet.html
+permalink: /internet/
 ---
 
 Rund um das Thema Internet besitze ich langjährige Erfahrung in der Konzeption von Web Auftritten, der entsprechenden Umsetzung, bis hin zum Hosting und z.B. der Email Einrichtung vor Ort.

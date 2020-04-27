@@ -1,7 +1,7 @@
 ---
 title: "IT-Support"
 excerpt: "Administration und Netzwerk Betreuung."
-permalink: /it-support.html
+permalink: /it-support/
 ---
 
 Im Rahmen meiner IT Dienstleistungen betreue ich zahlreiche Kunden im Bereich Administration und Netzwerk Support. Vom Ein-Mann Betrieb mit einzelnem PC bis hin zum mittelständischen Unternehmen mit umfangreichem Firmennetzwerk und mehreren Servern an verteilten Standorten biete ich entsprechende Hilfe an.

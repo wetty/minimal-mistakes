@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "IT-Support"
-    url: /it-support.html
+    url: /it-support/
   - title: "Software"
-    url: /software-entwicklung.html
+    url: /software-entwicklung/
   - title: "Internet"
-    url: /internet.html
+    url: /internet/
   - title: "Impressum"
     url: /impressum/
   - title: "Datenschutz"
-    url: /datenschutz.html
+    url: /datenschutz/
   - title: "Nutzungsbedingungen"
-    url: /nutzungsbedingungen.html
+    url: /nutzungsbedingungen/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

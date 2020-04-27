@@ -1,7 +1,7 @@
 ---
 title: "Datenschutzerklärung"
 excerpt: "Datenschutzerklärung"
-permalink: /datenschutz.html
+permalink: /datenschutz/
 ---
 
 ## 1. Datenschutz auf einen Blick ##

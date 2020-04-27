@@ -1,7 +1,7 @@
 ---
 title: "Nutzungsbedingungen"
 excerpt: "Nutzungsbedingungen"
-permalink: /nutzungsbedingungen.html
+permalink: /nutzungsbedingungen/
 ---
 
 Allgemeine Nutzungsbedingungen für Wetty-Web.de
