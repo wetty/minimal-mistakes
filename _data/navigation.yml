@@ -7,7 +7,7 @@ main:
   - title: "Internet"
     url: /internet.html
   - title: "Impressum"
-    url: /impressum.html
+    url: /impressum/
   - title: "Datenschutz"
     url: /datenschutz.html
   - title: "Nutzungsbedingungen"

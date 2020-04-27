@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 excerpt: "Impressum"
-permalink: /impressum.html
+permalink: /impressum/
 ---
 
 ## Angaben gemäß § 5 TMG: ##
