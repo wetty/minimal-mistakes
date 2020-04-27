@@ -99,20 +99,18 @@ social:
   links: # An array of links to social media profiles
 
 # Site owner
-# 2020-04-27 Werbung zum Test raus
-#owner:
-#  google:
-#    ad-client: ca-pub-7756413429414204
-#    ad-slot: 8741122071
+owner:
+  google:
+    ad-client: ca-pub-7756413429414204
+    ad-slot: 8741122071
 
 
 # Analytics
-# 2020-04-27 Analytics zum Test raus
-#analytics:
-#  provider               : "google" # false (default), "google", "google-universal", "custom"
-#  google:
-#    tracking_id          : UA-2881242-7
-#    anonymize_ip         : true # true, false (default)
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-2881242-7
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
