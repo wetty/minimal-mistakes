@@ -8,6 +8,7 @@ Im Rahmen meiner IT Dienstleistungen betreue ich zahlreiche Kunden im Bereich Ad
 
 Zu meinem Support Profil gehören folgende Systeme:
 
+- Microsoft 365 Betreuung und Migration ab Exchange 2007
 - Microsoft Windows seit Version 3.11 bis hin zu Microsoft Windows Windows 10
 - Microsoft Small Business Server seit Version 2003
 - Microsoft Terminal Server seit Version 2008
