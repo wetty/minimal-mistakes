@@ -7,8 +7,7 @@ permalink: /impressum/
 ## Angaben gemäß § 5 TMG: ##
 
 Dipl.-Ing. Thomas Wetterer    
-IT-Support    
-Softwareentwicklung    
+IT-Support & Softwareentwicklung    
 Breslauer Strasse 44    
 64579 Gernsheim
 
