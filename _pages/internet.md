@@ -18,4 +18,4 @@ Hierzu biete ich Ihnen zahlreiche Erfahrung mit folgenden Systemen:
 - Blogsoftware: wie z.B. Wordpress
 - Wikis: Dokuwiki, Wikimedia
 - Statische Content Creator wie z.B. Jekyll
-- Private Cloud Lösungen wie z.B. Nextcloud 
+- Private Cloud Lösungen: wie z.B. Nextcloud 
